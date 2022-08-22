@@ -4,10 +4,10 @@
 
 Work thru the exercises.
 
-- [Spark DataFrames Project Exercise](Python-and-Spark-for-Big-Data-master/Spark_DataFrame_Project_Exercise/Spark DataFrames Project Exercise.ipynb)
+- [Spark DataFrames Project Exercise](Python-and-Spark-for-Big-Data/Spark_DataFrame_Project_Exercise/Spark DataFrames Project Exercise.ipynb)
 - [Word count](Word_Count.ipynb)
-- [Introduction to Spark Streaming](Python-and-Spark-for-Big-Data-master/Spark Streaming/Introduction to Spark Streaming.ipynb)
-- [Spark Dataframes](Python-and-Spark-for-Big-Data-master/Spark_DataFrames)
+- [Introduction to Spark Streaming](Python-and-Spark-for-Big-Data/Spark Streaming/Introduction to Spark Streaming.ipynb)
+- [Spark Dataframes](Python-and-Spark-for-Big-Data/Spark_DataFrames)
 
 and for confidence boosting...
 
