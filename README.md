@@ -1,5 +1,11 @@
 # Spark with Python
 
+## ZipCode Tasks
+
+Work thru the 5 Dataframe notebooks below.
+
+Then, if you have time, work thru the RDD and basics notebooks.
+
 ## Apache Spark
 <a href="https://spark.apache.org/">Apache Spark</a> is one of the hottest new trends in the technology domain. It is the framework with probably the **highest potential to realize the fruit of the marriage between Big Data and Machine Learning**. It runs fast (up to 100x faster than traditional <a href="https://www.tutorialspoint.com/hadoop/hadoop_mapreduce.htm">Hadoop MapReduce</a> due to in-memory operation, offers robust, distributed, fault-tolerant data objects (called <a href="https://www.tutorialspoint.com/apache_spark/apache_spark_rdd.htm">RDD</a>), and integrates beautifully with the world of machine learning and graph analytics through supplementary packages like <a href="https://spark.apache.org/mllib/">Mlib</a> and <a href="https://spark.apache.org/graphx/">GraphX</a>.
 <br>
